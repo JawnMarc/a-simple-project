@@ -9,6 +9,7 @@
 * git add
 * git mv
 * git restore
+* git rm
 
 #### grow, mark and tweak your common history
 * git commit -m [message]
@@ -22,6 +23,7 @@
 
 #### examine the history and state
 * git show
+* gif diff
 * git bisect
 * git status
 * git log
