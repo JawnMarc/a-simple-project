@@ -8,12 +8,14 @@
 #### work on the current change
 * git add
 * git mv
-* git reset
-
+* git restore
+* git rm
 
 #### grow, mark and tweak your common history
 * git commit -m [message]
 * git merge
+* git branch
+* git reset
 
 #### collaborate
 * git pull
@@ -21,6 +23,7 @@
 
 #### examine the history and state
 * git show
+* gif diff
 * git bisect
 * git status
 * git log
