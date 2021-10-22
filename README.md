@@ -4,12 +4,24 @@
 ### Git Commands
 * git clone
 * git init
+
+#### work on the current change
 * git add
-* git status
-* git add
-* git push
-* git log
+* git mv
+* git reset
+
+
+#### grow, mark and tweak your common history
 * git commit -m [message]
 * git merge
+
+#### collaborate
 * git pull
 * git push
+
+#### examine the history and state
+* git show
+* git bisect
+* git status
+* git log
+####
